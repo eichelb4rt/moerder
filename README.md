@@ -61,7 +61,7 @@ Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/65bYRfHZZdi
 
 ## Hilfe
 
-Falls ihr noch Fragen habt, könnt ihr euch immer an die Helfer wenden. Die kennen die Regeln und können euch weiterhelfen. Seit aber vorsichtig, die Helfer können auch mitspielen :D.
+Falls ihr noch Fragen habt, könnt ihr euch immer an die Helfer wenden. Die kennen die Regeln und können euch weiterhelfen. Seid aber vorsichtig, die Helfer können auch mitspielen :D.
 Die absolute Autorität ist Maurice. Der spielt selbst nicht mit und entscheidet am Ende, was als Mord gilt und was nicht.
 
 - Telefon: +49 176 51891705
