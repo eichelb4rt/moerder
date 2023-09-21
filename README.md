@@ -1,4 +1,4 @@
-# Mörderspiel StET 2022
+# Mörderspiel StET 2023
 
 Das Mörderspiel ist ein Kennenlernspiel, was über den gesamten Verlauf der StET stattfindet. Es geht dabei darum, Leute zu "töten", indem man ihnen einen Gegenstand gibt. Wer am Ende die meisten Leute getötet hat, gewinnt einen wunderbaren Preis.
 
@@ -51,7 +51,7 @@ Niklas muss Maurice umbringen. Folgende Szenarien:
 
 ## Anmeldung
 
-Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/65bYRfHZZdiQ8yPr). Gebt bitte einfach euren Vor- und Nachnamen und euer Studienfach an. Die Art des Abschluss' ist dabei egal. Wer mehr als eins der gegebenen Studienfächer studiert, kann sich eins aussuchen. Wer sein Studienfach nicht findet, kontaktiert [Maurice](#hilfe).
+Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/s/e4wE5PX4r7K8NK5SracQLg2i). Gebt bitte einfach euren Vor- und Nachnamen und euer Studienfach an. Die Art des Abschluss' ist dabei egal. Wer mehr als eins der gegebenen Studienfächer studiert, kann sich eins aussuchen. Wer sein Studienfach nicht findet, kontaktiert [Helen](#hilfe).
 
 ## Zeitrahmen
 
@@ -62,8 +62,7 @@ Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/65bYRfHZZdi
 ## Hilfe
 
 Falls ihr noch Fragen habt, könnt ihr euch immer an die Helfer wenden. Die kennen die Regeln und können euch weiterhelfen. Seid aber vorsichtig, die Helfer können auch mitspielen :D.
-Die absolute Autorität ist Maurice. Der spielt selbst nicht mit und entscheidet am Ende, was als Mord gilt und was nicht.
+Die absolute Autorität ist Helen. Der spielt selbst nicht mit und entscheidet am Ende, was als Mord gilt und was nicht.
 
-- Telefon: +49 176 51891705
-- Mail: maurice.wenig@uni-jena.de
-- Discord: Eichelb4rt#1108
+- Telefon: +49 163 7300279
+- Mail: helen.wuerflein@uni-jena.de
