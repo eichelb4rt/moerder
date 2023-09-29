@@ -55,9 +55,9 @@ Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/s/e4wE5PX4r
 
 ## Zeitrahmen
 
-- Anmeldefrist: Dienstag, 04.10.2022 um 15:00.
-- Verteilung der Aufträge: Grillabend, 04.10. (~19:00?) SEID BITTE DA.
-- Ende des Spiels: Sonntag, 16.10.2022 um 23:59 (letzter Tag der StET)
+- Anmeldefrist: Mittwoch, 04.10.2023 um 15:00.
+- Verteilung der Aufträge: Spieleabend, 04.10. (~19:00?) SEID BITTE DA.
+- Ende des Spiels: Sonntag, 14.10.2023 um 23:59 (letzter Tag der StET)
 
 ## Hilfe
 
