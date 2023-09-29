@@ -61,7 +61,7 @@ Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/s/e4wE5PX4r
 
 ## Hilfe
 
-Falls ihr noch Fragen habt, könnt ihr euch immer an die Helfer wenden. Die kennen die Regeln und können euch weiterhelfen. Seid aber vorsichtig, die Helfer können auch mitspielen :D.
+Falls ihr noch Fragen habt, könnt ihr euch immer an die Helfer wenden. Die kennen die Regeln und können euch weiterhelfen. Seid aber vorsichtig, die Helfer können auch mitspielen.
 Die absolute Autorität ist Helen. Der spielt selbst nicht mit und entscheidet am Ende, was als Mord gilt und was nicht.
 
 - Telefon: +49 163 7300279
