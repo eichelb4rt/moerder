@@ -56,7 +56,7 @@ Anmelden könnt ihr euch [hier](https://cloud.uni-jena.de/apps/forms/s/e4wE5PX4r
 ## Zeitrahmen
 
 - Anmeldefrist: Mittwoch, 04.10.2023 um 20:00
-- Verteilung der Aufträge: Spieleabend, 04.10. (~19:00?) - Seid bitte da.
+- Verteilung der Aufträge: Spieleabend, 04.10. (~21:00?) - Seid bitte da.
 - Ende des Spiels: Sonntag, 14.10.2023 um 23:59 (letzter Tag der StET)
 
 ## Hilfe
